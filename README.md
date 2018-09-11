@@ -26,5 +26,5 @@ Make API calls using retrofit- built complete using kotlin
 Now <sync> your project again.
 	
 	
-# Just replace API_KEY in MainActivity class with your key. To get the API_KEY for fetching data, please visit below link, it is free just enter your email and verify your apikey from mail you receive
+Just replace API_KEY in MainActivity class with your key. To get the API_KEY for fetching data, please visit below link, it is free just enter your email and verify your apikey from mail you receive
 http://www.omdbapi.com/apikey.aspx
